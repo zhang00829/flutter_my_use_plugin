@@ -16,8 +16,12 @@ useful flutter plugin
 12、	Flutter plugins 	https://github.com/flutter/plugins flutter官方插件<br/>
 13、	fluro   https://github.com/theyakka/fluro	 
 路由<br/>
-14、		dio https://github.com/flutterchina/dio		http请求封装裤
-
+14、		dio https://github.com/flutterchina/dio		http请求封装库<br/>
+15、   flutter_secure_storage  https://github.com/mogol/flutter_secure_storage 用于将数据存储在安全存储中的Flutter插件<br/>
+16、   percent_indicator     https://github.com/diegoveloper/flutter_percent_indicator   循环和线性百分比指标<br/>
+17、   image_cropper     https://github.com/hnvn/flutter_image_cropper     适用于Android和iOS的Flutter插件支持裁剪图像<br/>
+18、   chewie    https://github.com/brianegan/chewie     Flutter的视频播放器<br/>
+19、   catcher   https://github.com/jhomlala/catcher     https://juejin.im/post/5c64e011e51d45798b51c8af   使用 Catcher 处理 Flutter 错误<br/>
 
 
 <h1>填坑</h1>
@@ -29,5 +33,5 @@ Flutter开发中常用的快捷键
 https://juejin.im/post/5c5d970e6fb9a049af6db7cd
 <br/>
 
-Flutter设置appBar的高度——————————在AppBar外包一层PreferredSize，设置preferredSize的属性为想要的高度即可
+Flutter设置appBar的高度—————在AppBar外包一层PreferredSize，设置preferredSize的属性为想要的高度即可
 https://www.jianshu.com/p/6f4686b0bda6
