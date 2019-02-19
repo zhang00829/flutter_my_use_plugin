@@ -27,3 +27,7 @@ useful flutter plugin
 <h1>技巧</h1>
 Flutter开发中常用的快捷键
 https://juejin.im/post/5c5d970e6fb9a049af6db7cd
+<br/>
+
+Flutter设置appBar的高度
+https://www.jianshu.com/p/6f4686b0bda6
