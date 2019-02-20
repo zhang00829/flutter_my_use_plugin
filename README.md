@@ -22,7 +22,7 @@ useful flutter plugin
 17、   image_cropper     https://github.com/hnvn/flutter_image_cropper     适用于Android和iOS的Flutter插件支持裁剪图像<br/>
 18、   chewie    https://github.com/brianegan/chewie     Flutter的视频播放器<br/>
 19、   catcher   https://github.com/jhomlala/catcher     https://juejin.im/post/5c64e011e51d45798b51c8af   使用 Catcher 处理 Flutter 错误<br/>
-20、   url_launcher    https://github.com/flutter/plugins/tree/master/packages/url_launcher    调用ios或android平台自带的浏览器打开网页
+20、   url_launcher    https://github.com/flutter/plugins/tree/master/packages/url_launcher    调用ios或android平台自带的浏览器打开网页<br/>
 21、azlistview   https://github.com/flutterchina/azlistview   Flutter 城市列表，联系人列表，索引&悬停
  
 <h1>填坑</h1>
