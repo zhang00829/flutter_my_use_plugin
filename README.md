@@ -35,4 +35,7 @@ https://juejin.im/post/5c5d970e6fb9a049af6db7cd
 <br/>
 
 Flutter设置appBar的高度—————在AppBar外包一层PreferredSize，设置preferredSize的属性为想要的高度即可
-https://www.jianshu.com/p/6f4686b0bda6
+https://www.jianshu.com/p/6f4686b0bda6<br/>
+
+Offstage 控制其子组建
+是否显示，类似vue的v-if
