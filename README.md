@@ -23,8 +23,8 @@ useful flutter plugin
 18、   chewie    https://github.com/brianegan/chewie     Flutter的视频播放器<br/>
 19、   catcher   https://github.com/jhomlala/catcher     https://juejin.im/post/5c64e011e51d45798b51c8af   使用 Catcher 处理 Flutter 错误<br/>
 20、   url_launcher    https://github.com/flutter/plugins/tree/master/packages/url_launcher    调用ios或android平台自带的浏览器打开网页<br/>
-21、azlistview   https://github.com/flutterchina/azlistview   Flutter 城市列表，联系人列表，索引&悬停
- 
+21、azlistview   https://github.com/flutterchina/azlistview   Flutter 城市列表，联系人列表，索引&悬停<br/>
+22、connectivity   https://github.com/flutter/plugins/tree/master/packages/connectivity    检测网络
 <h1>填坑</h1>
 <strange>Flutter Android端启动白屏</strange>
 <p>https://juejin.im/post/5b443975f265da0f6825b56c</p>
