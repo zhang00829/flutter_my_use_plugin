@@ -2,7 +2,7 @@
 useful flutter plugin
 
 
-1、	flutter_slidable	ttps://github.com/letsar/flutter_slidable 列表滑动删除<br/>
+1、	flutter_slidable	https://github.com/letsar/flutter_slidable 列表滑动删除<br/>
 2、	flutter_speed_dial	https://github.com/darioielardi/flutter_speed_dial 快速拨号展开按钮<br/>
 3、	fluttertoast	https://github.com/PonnamKarthik/FlutterToast 提示框<br/>
 4、	fluwx	https://github.com/OpenFlutter/fluwx 适用于Flutter的微信SDK<br/>
