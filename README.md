@@ -29,6 +29,12 @@ useful flutter plugin
 <h1>填坑</h1>
 <strange>Flutter Android端启动白屏</strange>
 <p>https://juejin.im/post/5b443975f265da0f6825b56c</p>
+<strange>当你不知道为啥报错</strange>
+<ul>
+  <li>重启应用</li>
+  <li>flutter clean</li>
+  
+</ul>
 
 <h1>技巧</h1>
 Flutter开发中常用的快捷键
